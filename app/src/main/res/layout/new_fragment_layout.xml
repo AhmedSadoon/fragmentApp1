@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New fragment"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
+        android:background="#ff00"
+        android:textSize="40sp"
+        />
+</RelativeLayout>
